@@ -1,3 +1,3 @@
-HW = input("Type Hello World")
+HW = input("Type Hello World ")
 
 print(HW)
